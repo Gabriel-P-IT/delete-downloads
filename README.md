@@ -1,4 +1,4 @@
-# delete-downloads
+# delete-downloads-users
 This script delete all downloads of all users in the server. <BR>
 
 <B> WRITEd IN POWERSHELL</B><BR>
